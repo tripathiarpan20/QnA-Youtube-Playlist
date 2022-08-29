@@ -3,7 +3,7 @@
 
 ## Introduction  
 
-Have you ever found a great playlist on YouTube that intruiging to you because of the rich information it holds about a certain topic & wished that you could get answers to your questions at your convenience without rewatching the whole playlist?  
+Have you ever found a great playlist on YouTube that's intruiging to you because of the rich information it holds about a certain topic & wished that you could get answers to your questions conveniently without rewatching (or even watching) the whole playlist?
 
 Well look no further, the notebook provided in this repo works as follows:
 * Generate an API key for [Youtube Data API v3](https://developers.google.com/youtube/v3) (follow the Step 1 in [this guide](https://developers.google.com/youtube/v3/quickstart/python?authuser=1)).
